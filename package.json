@@ -3,10 +3,24 @@
   "version": "1.0.0",
   "description": "create html file",
   "main": "index.js",
-  "bin": { "html": "index.js" },
+  "bin": {
+    "html": "index.js"
+  },
   "scripts": {
     "test": "tape test/*.js"
   },
   "author": "Tom",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/html.git"
+  },
+  "keywords": [
+    "html",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/twilson63/html/issues"
+  },
+  "homepage": "https://github.com/twilson63/html#readme"
 }
