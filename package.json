@@ -1,0 +1,12 @@
+{
+  "name": "@twilson63/html",
+  "version": "1.0.0",
+  "description": "create html file",
+  "main": "index.js",
+  "bin": { "html": "index.js" },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Tom",
+  "license": "ISC"
+}
